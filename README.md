@@ -2,8 +2,8 @@
 ## I am a programmer, born in Sri Lanka, married to the computer, live on the internet, and always crack opening some codes. as a full-time freelancer and entrepreneur, I have professional and reliable experience in creative designing, computer programming, and code-cracking. mostly I work alone and silent. it keeps my mind calm, like a Bhavana. as a hobby, I'm seeking interplanetary exploration and extraterrestrial life, I believe they exist. technology is always growing. I'm happy to be part of it. I've only one rule, only one 
 # "Programming is like sex, I can't make a mistake".
 ### [< IamProgrammerLK/>](https://iamprogrammer.lk/)
-![Twitter Followers](https://img.shields.io/twitter/follow/IamProgrammerLK?style=social)
-![Github Followers](https://img.shields.io/github/followers/IamProgrammerLK?style=social)
+![Twitter Followers](https://img.shields.io/twitter/follow/iamprogrammerlk?style=social)
+![Github Followers](https://img.shields.io/github/followers/iamprogrammerlk?style=social)
 
 
 # 🔧 Technologies I Use
@@ -32,11 +32,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/IamProgrammerLK/IamProgrammerLK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IamProgrammerLK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="IamProgrammerLK's GitHub Stats" />
+<a href="https://github.com/iamprogrammerlk/iamprogrammerlk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprogrammerlk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="iamprogrammerlk's GitHub Stats" />
 </a>
-<a href="https://github.com/IamProgrammerLK/IamProgrammerLK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamProgrammerLK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/iamprogrammerlk/iamprogrammerlk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprogrammerlk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--
