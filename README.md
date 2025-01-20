@@ -1,16 +1,36 @@
-## Hi there 👋
+<br>
+<br>
 
-<!--
-**iamprogrammerlk/iamprogrammerlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="text-align: center;">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/iamprogrammerlk">
+  <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+</a>
+
+<br>
+<br>
+
+# I am Programmer
+
+## Programming is like sex, I can't make a mistake.</h4>
+
+<br>
+
+[Home][home] • [Blog][blog] • [Sponsors][sponsors] • [Github][github] • [Youtube][youtube] • [X][x] • [Linkedin][linkedin] • [Buy Me a Coffee][buymeacoffee]
+
+</div>
+
+<br>
+<br>
+<br>
+
+[home]: https://iamprogrammer.lk
+[blog]: https://blog.iamprogrammer.lk
+[sponsors]: https://github.com/sponsors/iamprogrammerlk
+[github]: https://github.com/iamprogrammerlk
+[youtube]: https://youtube.com/@iamprogrammerlk
+[x]: https://x.com/iamprogrammerlk
+[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
+[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
