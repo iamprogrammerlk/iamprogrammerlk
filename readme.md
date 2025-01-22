@@ -17,8 +17,9 @@
 ## Programming is like sex, I can't make a mistake.</h4>
 
 <br>
+   :light_blue_heart:
 
-[Home][home] :large_blue_diamond: [Blog][blog] :large_blue_diamond: [Sponsors][sponsors] :large_blue_diamond: [Discussions][discussions] :large_blue_diamond: [Github][github] :large_blue_diamond: [Youtube][youtube] :large_blue_diamond: [X][x] :large_blue_diamond: [Linkedin][linkedin] :large_blue_diamond: [Buy Me a Coffee][buymeacoffee]
+:house: [Home][home] :book: [Blog][blog] :dollar: [Sponsors][sponsors] :speaking_head: [Discussions][discussions] :octocat: [Github][github] :heart: [Youtube][youtube] :black_heart: [X][x] :blue_heart: [Linkedin][linkedin] :coffee: [Buy Me a Coffee][buymeacoffee]
 
 </div>
 
@@ -36,15 +37,13 @@
 
 ---
 
----
-
 <br>
 
 ## My Projects
 
 ### Templates
 
-[Template GPL v3][template_gpl_v3] :large_orange_diamond: [Template MIT v1][template_mit_v1] :large_orange_diamond: [Template OSL v3][template_osl_v3] :large_orange_diamond: [Template WTFPL v2][template_wtfpl_v2]
+[Template GPL v3][template_gpl_v3] :rocket: [Template MIT v1][template_mit_v1] :rocket: [Template OSL v3][template_osl_v3] :rocket: [Template WTFPL v2][template_wtfpl_v2]
 
 [template_gpl_v3]: https://github.com/iamprogrammerlk/template_gpl_v3
 [template_mit_v1]: https://github.com/iamprogrammerlk/template_mit_v1
@@ -53,7 +52,7 @@
 
 ### Themes For Chromium-based Web Browser
 
-[Pink Wink][pinkwink] :large_orange_diamond: [Purple Ripple][purpleripple] :large_orange_diamond: [Rose Pose][rosepose] :large_orange_diamond: [Yellow Mellow][yellowmellow]
+[Pink Wink][pinkwink] :rocket: [Purple Ripple][purpleripple] :rocket: [Rose Pose][rosepose] :rocket: [Yellow Mellow][yellowmellow]
 
 [pinkwink]: https://github.com/iamprogrammerlk/pinkwink
 [purpleripple]: https://github.com/iamprogrammerlk/purpleripple
