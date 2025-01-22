@@ -49,10 +49,11 @@
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
 [template_wtfpl_v2]: https://github.com/iamprogrammerlk/template_wtfpl_v2
 
-### :fire: _Themes For Chromium-based Web Browser_
+### :fire: _Themes For Chromium-based Web Browsers_
 
-[Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
+[Orange Change][orangechange] :small_orange_diamond: [Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
 
+[orangechange]: https://github.com/iamprogrammerlk/orangechange
 [pinkwink]: https://github.com/iamprogrammerlk/pinkwink
 [purpleripple]: https://github.com/iamprogrammerlk/purpleripple
 [rosepose]: https://github.com/iamprogrammerlk/rosepose
