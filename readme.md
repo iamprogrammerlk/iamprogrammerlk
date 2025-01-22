@@ -42,8 +42,9 @@
 
 ### :fire: _Templates_
 
-[Template GPL v3][template_gpl_v3] :small_orange_diamond: [Template MIT v1][template_mit_v1] :small_orange_diamond: [Template OSL v3][template_osl_v3] :small_orange_diamond: [Template WTFPL v2][template_wtfpl_v2]
+[Template Chromium Theme][template_chromium_theme] :small_orange_diamond: [Template GPL v3][template_gpl_v3] :small_orange_diamond: [Template MIT v1][template_mit_v1] :small_orange_diamond: [Template OSL v3][template_osl_v3] :small_orange_diamond: [Template WTFPL v2][template_wtfpl_v2]
 
+[template_chromium_theme]: https://github.com/iamprogrammerlk/template_chromium_theme
 [template_gpl_v3]: https://github.com/iamprogrammerlk/template_gpl_v3
 [template_mit_v1]: https://github.com/iamprogrammerlk/template_mit_v1
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
