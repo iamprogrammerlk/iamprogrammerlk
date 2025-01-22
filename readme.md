@@ -18,7 +18,7 @@
 
 <br>
 
-#### [Home][home] :small_blue_diamond: [Blog][blog] :small_blue_diamond: [Sponsors][sponsors] :small_blue_diamond: [Discussions][discussions] :small_blue_diamond: [Github][github] :small_blue_diamond: [Youtube][youtube] :small_blue_diamond: [X][x] :small_blue_diamond: [LinkedIn][linkedin] :small_blue_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
 <br>
 
