@@ -18,9 +18,7 @@
 
 <br>
 
-:small_orange_diamond:
-
-### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
 </div>
 
@@ -42,7 +40,7 @@
 
 ## :briefcase: My Projects
 
-### :fire: Templates
+### :fire: _Templates_
 
 [Template GPL v3][template_gpl_v3] :small_blue_diamond: [Template MIT v1][template_mit_v1] :small_blue_diamond: [Template OSL v3][template_osl_v3] :small_blue_diamond: [Template WTFPL v2][template_wtfpl_v2]
 
@@ -51,7 +49,7 @@
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
 [template_wtfpl_v2]: https://github.com/iamprogrammerlk/template_wtfpl_v2
 
-### :fire: Themes For Chromium-based Web Browser
+### :fire: _Themes For Chromium-based Web Browser_
 
 [Pink Wink][pinkwink] :small_blue_diamond: [Purple Ripple][purpleripple] :small_blue_diamond: [Rose Pose][rosepose] :small_blue_diamond: [Yellow Mellow][yellowmellow]
 
