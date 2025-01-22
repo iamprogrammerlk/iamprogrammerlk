@@ -51,8 +51,9 @@
 
 ### :fire: _Themes For Chromium-based Web Browsers_
 
-[Orange Change][orangechange] :small_orange_diamond: [Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
+[Brown Crown][browncrown] :small_orange_diamond: [Orange Change][orangechange] :small_orange_diamond: [Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
 
+[browncrown]: https://github.com/iamprogrammerlk/browncrown
 [orangechange]: https://github.com/iamprogrammerlk/orangechange
 [pinkwink]: https://github.com/iamprogrammerlk/pinkwink
 [purpleripple]: https://github.com/iamprogrammerlk/purpleripple
