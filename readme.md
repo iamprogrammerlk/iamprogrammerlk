@@ -18,7 +18,7 @@
 
 <br>
 
-:house: [ Home ][home] :book: [ Blog ][blog] :dollar: [ Sponsors ][sponsors] :speaking_head: [ Discussions ][discussions] :octocat: [ Github ][github] :heart: [ Youtube ][youtube] :light_blue_heart: [ X ][x] :blue_heart: [ LinkedIn ][linkedin] :coffee: [ Buy Me a Coffee ][buymeacoffee]
+[Home][home] :large_orange_diamond: [Blog][blog] :large_orange_diamond: [Sponsors][sponsors] :large_orange_diamond: [Discussions][discussions] :large_orange_diamond: [Github][github] :large_orange_diamond: [Youtube][youtube] :large_orange_diamond: [X][x] :large_orange_diamond: [LinkedIn][linkedin] :large_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
 </div>
 
@@ -38,11 +38,11 @@
 
 <br>
 
-## My Projects
+## :briefcase: My Projects
 
 ### Templates
 
-[ Template GPL v3 ][template_gpl_v3] :light_blue_heart: [ Template MIT v1 ][template_mit_v1] :light_blue_heart: [ Template OSL v3 ][template_osl_v3] :light_blue_heart: [ Template WTFPL v2 ][template_wtfpl_v2]
+[Template GPL v3][template_gpl_v3] :fire: [Template MIT v1][template_mit_v1] :fire: [Template OSL v3][template_osl_v3] :fire: [Template WTFPL v2][template_wtfpl_v2]
 
 [template_gpl_v3]: https://github.com/iamprogrammerlk/template_gpl_v3
 [template_mit_v1]: https://github.com/iamprogrammerlk/template_mit_v1
@@ -51,7 +51,7 @@
 
 ### Themes For Chromium-based Web Browser
 
-[ Pink Wink ][pinkwink] :light_blue_heart: [ Purple Ripple ][purpleripple] :light_blue_heart: [ Rose Pose ][rosepose] :light_blue_heart: [ Yellow Mellow ][yellowmellow]
+[Pink Wink][pinkwink] :fire: [Purple Ripple][purpleripple] :fire: [Rose Pose][rosepose] :fire: [Yellow Mellow][yellowmellow]
 
 [pinkwink]: https://github.com/iamprogrammerlk/pinkwink
 [purpleripple]: https://github.com/iamprogrammerlk/purpleripple
