@@ -18,7 +18,7 @@
 
 <br>
 
-#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] 🔸 [Blog][blog] 🔸 [Sponsors][sponsors] 🔸 [Discussions][discussions] 🔸 [Github][github] 🔸 [Youtube][youtube] 🔸 [X][x] 🔸 [LinkedIn][linkedin] 🔸 [Buy Me a Coffee][buymeacoffee]
 
 <br>
 
@@ -38,11 +38,11 @@
 
 <br>
 
-## :briefcase: My Projects
+## 💼 My Projects
 
-### :fire: _Templates_
+### 🔥 _Templates_
 
-[Template Chromium Theme][template_chromium_theme] :small_orange_diamond: [Template GitHub Organization Profile][template_github_organization_profile] :small_orange_diamond: [Template GPL v3][template_gpl_v3] :small_orange_diamond: [Template MIT v1][template_mit_v1] :small_orange_diamond: [Template OSL v3][template_osl_v3] :small_orange_diamond: [Template WTFPL v2][template_wtfpl_v2]
+[Template Chromium Theme][template_chromium_theme] 🔸 [Template GitHub Organization Profile][template_github_organization_profile] 🔸 [Template GPL v3][template_gpl_v3] 🔸 [Template MIT v1][template_mit_v1] 🔸 [Template OSL v3][template_osl_v3] 🔸 [Template WTFPL v2][template_wtfpl_v2]
 
 [template_chromium_theme]: https://github.com/iamprogrammerlk/template_chromium_theme
 [template_github_organization_profile]: https://github.com/iamprogrammerlk/template_github_organization_profile
@@ -51,9 +51,9 @@
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
 [template_wtfpl_v2]: https://github.com/iamprogrammerlk/template_wtfpl_v2
 
-### :fire: _Themes For Chromium-based Web Browsers_
+### 🔥 _Themes For Chromium-based Web Browsers_
 
-[Brown Crown][browncrown] :small_orange_diamond: [Orange Change][orangechange] :small_orange_diamond: [Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
+[Brown Crown][browncrown] 🔸 [Orange Change][orangechange] 🔸 [Pink Wink][pinkwink] 🔸 [Purple Ripple][purpleripple] 🔸 [Rose Pose][rosepose] 🔸 [Yellow Mellow][yellowmellow]
 
 [browncrown]: https://github.com/iamprogrammerlk/browncrown
 [orangechange]: https://github.com/iamprogrammerlk/orangechange
