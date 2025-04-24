@@ -3,7 +3,8 @@
 
 Copyright (C) 2025 🇱🇰 I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document,
+and changing it is allowed as long as the name is changed.
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
