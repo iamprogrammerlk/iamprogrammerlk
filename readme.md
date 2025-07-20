@@ -1,4 +1,4 @@
-<br>
+\*\*\*\*<br>
 <br>
 
 <div align="center" style="text-align: center;">
@@ -50,16 +50,20 @@
 
 ### 🔥 _Templates_
 
-[Template Chromium Theme][template_chromium_theme]
+[Template Bash Script][template_bash_script]
+🔸 [Template Chromium Theme][template_chromium_theme]
 🔸 [Template GitHub Organization Profile][template_github_organization_profile]
 🔸 [Template GPL v3][template_gpl_v3]
+🔸 [Template Jekyll Theme][template_jekyll_theme]
 🔸 [Template MIT v1][template_mit_v1]
 🔸 [Template OSL v3][template_osl_v3]
 🔸 [Template WTFPL v2][template_wtfpl_v2]
 
+[template_bash_script]: https://github.com/iamprogrammerlk/template_bash_script
 [template_chromium_theme]: https://github.com/iamprogrammerlk/template_chromium_theme
 [template_github_organization_profile]: https://github.com/iamprogrammerlk/template_github_organization_profile
 [template_gpl_v3]: https://github.com/iamprogrammerlk/template_gpl_v3
+[template_jekyll_theme]: https://github.com/iamprogrammerlk/template_jekyll_theme
 [template_mit_v1]: https://github.com/iamprogrammerlk/template_mit_v1
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
 [template_wtfpl_v2]: https://github.com/iamprogrammerlk/template_wtfpl_v2
