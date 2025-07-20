@@ -26,7 +26,7 @@
 🔸 [Youtube][youtube]
 🔸 [X][x]
 🔸 [LinkedIn][linkedin]
-🔸 [Buy Me a Coffee][buymeacoffee]
+🔸 [**Buy Me a Coffee**][buymeacoffee]
 
 <br>
 
@@ -46,18 +46,18 @@
 
 <br>
 
-## 💼 My Projects
+## 🏗️ My Projects
 
-### 🔥 _Templates_
+### 🧩 _Templates_
 
-[Template Bash Script][template_bash_script]
-🔸 [Template Chromium Theme][template_chromium_theme]
-🔸 [Template GitHub Organization Profile][template_github_organization_profile]
-🔸 [Template GPL v3][template_gpl_v3]
-🔸 [Template Jekyll Theme][template_jekyll_theme]
-🔸 [Template MIT v1][template_mit_v1]
-🔸 [Template OSL v3][template_osl_v3]
-🔸 [Template WTFPL v2][template_wtfpl_v2]
+- ⭐ [Template Bash Script][template_bash_script]
+- ⭐ [Template Chromium Theme][template_chromium_theme]
+- ⭐ [Template GitHub Organization Profile][template_github_organization_profile]
+- ⭐ [Template GPL v3][template_gpl_v3]
+- ⭐ [Template Jekyll Theme][template_jekyll_theme]
+- ⭐ [Template MIT v1][template_mit_v1]
+- ⭐ [Template OSL v3][template_osl_v3]
+- ⭐ [Template WTFPL v2][template_wtfpl_v2]
 
 [template_bash_script]: https://github.com/iamprogrammerlk/template_bash_script
 [template_chromium_theme]: https://github.com/iamprogrammerlk/template_chromium_theme
@@ -68,14 +68,14 @@
 [template_osl_v3]: https://github.com/iamprogrammerlk/template_osl_v3
 [template_wtfpl_v2]: https://github.com/iamprogrammerlk/template_wtfpl_v2
 
-### 🔥 _Themes For Chromium-based Web Browsers_
+### 🎨 _Themes For Chromium-based Web Browsers_
 
-[Brown Crown][browncrown]
-🔸 [Orange Change][orangechange]
-🔸 [Pink Wink][pinkwink]
-🔸 [Purple Ripple][purpleripple]
-🔸 [Rose Pose][rosepose]
-🔸 [Yellow Mellow][yellowmellow]
+- ⭐ [Brown Crown][browncrown]
+- ⭐ [Orange Change][orangechange]
+- ⭐ [Pink Wink][pinkwink]
+- ⭐ [Purple Ripple][purpleripple]
+- ⭐ [Rose Pose][rosepose]
+- ⭐ [Yellow Mellow][yellowmellow]
 
 [browncrown]: https://github.com/iamprogrammerlk/browncrown
 [orangechange]: https://github.com/iamprogrammerlk/orangechange
@@ -84,9 +84,9 @@
 [rosepose]: https://github.com/iamprogrammerlk/rosepose
 [yellowmellow]: https://github.com/iamprogrammerlk/yellowmellow
 
-### 🔥 _Experiments_
+### 🧪 _Experiments_
 
-[Time Machine][timemachine]
+- ⭐ [Time Machine][timemachine]
 
 [timemachine]: https://github.com/iamprogrammerlk/timemachine
 
