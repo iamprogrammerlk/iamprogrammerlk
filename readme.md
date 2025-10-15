@@ -6,13 +6,11 @@
     <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
   </a>
 
-<br><br>
-
-  <h2>I am Programmer</h2>
+  <br><br>
 
   <h1>Programming is like sex, I can't make a mistake.</h1>
 
-<br>
+  <br>
 
   <h2>
     <a href="https://iamprogrammer.lk">🏠 Home</a> 
