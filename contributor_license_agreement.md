@@ -1,6 +1,6 @@
 # Contributor License Agreement
 
-- author: I am Programmer <https://iamprogrammer.lk>
+- author: I am Programmer [iamprogrammer.lk](https://iamprogrammer.lk)
 
 - version: 1.0.0
 
