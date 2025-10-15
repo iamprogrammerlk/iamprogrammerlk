@@ -4,9 +4,9 @@
 
 - version: 1.0.0
 
-- release_date: 2025-01-18
+- release_date: 2025-10-15
 
-- last_update: 2025-01-18
+- last_update: 2025-10-15
 
 > [!CAUTION]
 >
