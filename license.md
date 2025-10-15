@@ -1,7 +1,7 @@
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
-Copyright (C) 2025 🇱🇰 I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
+Copyright (C) 2025 🇱🇰 I am Programmer [iamprogrammer.lk](https://iamprogrammer.lk)
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document,
 and changing it is allowed as long as the name is changed.
