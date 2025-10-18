@@ -4,7 +4,8 @@
 
 > [!IMPORTANT]
 >
-> Please do not report security vulnerabilities through public Community Forum, GitHub issues, discussions, or pull requests.
+> Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
+> **Discussions**, or **Pull Requests**.
 
 If you have discovered a potential vulnerability or security risk, we encourage you to responsibly disclose it to us.
 we recommend using [`Security Advisories`][security_advisories] for better coordinated disclosure.
