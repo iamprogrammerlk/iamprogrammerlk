@@ -1,17 +1,21 @@
+<!-- [!IMPORTANT] Always keep the latest changes on top of the log file. -->
+
 # Changelog
 
-> [!TIP]
->
-> Sample template for a new log record.
->
-> ## VERSION (DATE)
->
-> ` - CHANGE_ONE`
->
-> ` - CHANGE_TWO`
->
-> ` - ...`
+<!-- Sample template for a new log record.
 
-> [!IMPORTANT]
->
-> Always keep the latest changes on top of the log file.
+## VERSION - DATE
+
+### Added
+
+- New Feature: NEW_FEATURE
+
+### Changed
+
+- Updated layout in home
+
+### Fixed
+
+- Fixed: #GITHUB_ISSUE_ID
+
+-->
