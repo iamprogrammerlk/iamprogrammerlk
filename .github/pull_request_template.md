@@ -1,6 +1,6 @@
 PULL_REQUEST_DESCRIPTION
 
-## What Changed?
+## 📢 What Changed?
 
 > [!TIP]
 >
@@ -12,7 +12,7 @@ PULL_REQUEST_DESCRIPTION
 
 - ...
 
-## Why Did it Change?
+## 📣 Why Did it Change?
 
 > [!TIP]
 >
@@ -24,7 +24,7 @@ PULL_REQUEST_DESCRIPTION
 
 - ...
 
-## Acknowledgment
+## ⚖️ Acknowledgment
 
 > [!CAUTION]
 >
