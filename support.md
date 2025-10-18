@@ -42,15 +42,15 @@ If your issue isn't getting attention:
 
 - Tag relevant maintainers (check [Contributors][contributors])
 
-- If still unresolved, [email support team][support_email]
+- If still unresolved, send an email to our [Support Team][support_email]
 
 # 📝 Documentation
 
-- 📚 Official Documentation: [Our documentation][document]
+- 📚 Official Documentation: [Our Documentation][document]
 
-- 🎬 Tutorials & Guides: [Our tutorials page][youtube]
+- 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
 
-- 📖 API Reference: [API docs][api_document]
+- 📖 API Reference: [API Documents][api_document]
 
 # 📚 Learning Materials
 
