@@ -1,34 +1,48 @@
-PULL_REQUEST_DESCRIPTION
+## 📌 Summary
 
-## 📢 What Changed?
+<!-- Provide a short summary of the changes in this Pull Request -->
 
-> [!TIP]
->
-> Please list all the changes you made. Did you fix any specific issues? Please tag the particular issue here.
+## 🔍 Related Issues
 
-- CHANGE_ONE.
+<!-- Did you fix any specific issues? Link related issues here using "Fixes #issue_number" or "Closes #issue_number" -->
 
-- CHANGE_TWO.
+- [x] Fixes #...
 
-- ...
+## 🛠 Changes
 
-## 📣 Why Did it Change?
+<!-- List the major changes in this PR -->
 
-> [!TIP]
->
-> Please list all the reasons you made the changes.
+1. ...
+2. ...
 
-- REASON_ONE.
+## ✅ Checklist
 
-- REASON_TWO.
+- [ ] Code follows the project's coding standards
+- [ ] Tests have been added/updated (if applicable)
+- [ ] Documentation has been updated (if applicable)
+- [ ] All tests pass locally
+- [ ] No console errors or warnings
 
-- ...
+## 🧪 Testing Steps
+
+<!-- Describe how reviewers can test your changes -->
+
+1. ...
+2. ...
+3. ...
+
+## 📷 Screenshots (if applicable)
+
+<!-- Add before/after screenshots or GIFs to help reviewers -->
+
+## 📚 Additional Notes
+
+<!-- Any extra information for reviewers -->
 
 ## ⚖️ Acknowledgment
 
-> [!CAUTION]
->
-> Please do not remove this section from the pull request. Otherwise, your pull request will be rejected.
+<!-- [!CAUTION]
+Please do not remove this section from the pull request. Otherwise, your pull request will be rejected. -->
 
 By opening this pull request, I agree to abide by the [Code of Conduct][code_of_conduct],
 [Security Policy][security], [Contribution Guidelines][contributing],
@@ -47,7 +61,9 @@ in effect on the date and time of my contribution as proven by the revision info
 
 > [!IMPORTANT]
 >
-> All the pull requests must have the "Acknowledgment" section intact, read, and agreed upon by the contributor.
+> All the pull requests must have the "Acknowledgment" section intact, read, and agreed.
+>
+> By submitting a full request, the contributor consents to all the terms and conditions set by the project.
 
 [code_of_conduct]: ../blob/main/code_of_conduct.md
 [security]: ../blob/main/security.md
