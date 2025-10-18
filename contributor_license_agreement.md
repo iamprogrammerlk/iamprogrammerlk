@@ -1,4 +1,4 @@
-# Contributor License Agreement
+# ⚖️ Contributor License Agreement
 
 - author: I am Programmer [iamprogrammer.lk](https://iamprogrammer.lk)
 
@@ -14,7 +14,7 @@
 > public access. Changes take effect immediately for new contributions and will also apply to existing contributions.
 > If you wish to opt out of the new terms, please contact any member of the leadership team.
 
-## Thank you for your interest in this project.
+## ♥️ Thank you for your interest in this project.
 
 In order to clarify the intellectual property license granted with contributions from any person or entity
 (the "Contributor"), this project owner(s) require all contributions to be signed by the contributor (using Git's "Sign
@@ -27,7 +27,7 @@ does not change your rights to use your own contributions for any other purpose.
 This version of the agreement allows an entity (the "contributor") to submit contributions to the project, and to grant
 copyright and patent licenses thereto.
 
-## The following terms and conditions are
+## 💯 The following terms and conditions are
 
 ## read, understood, accepted, and agreed upon by you (the "contributor") and the project (and the "project owner(s)"):
 
