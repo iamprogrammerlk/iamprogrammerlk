@@ -1,11 +1,11 @@
-# Contributing
+# 🎖️ Contributing
 
 > [!CAUTION]
 >
 > This project is not a place for expressing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-## We welcome all contributions and will give full credit to all contributors.
+## ©️ We welcome all contributions and will give full credit to all contributors.
 
 You can visit the [Issues][issues] section to propose changes or features. Please ensure that your suggestion
 hasn't already been made and is not in the works.
@@ -19,7 +19,7 @@ Assist the project by helping other users, enhancing the documentation, or valid
 >
 > Don't forget to follow the project and leave a ⭐ GitHub Star ⭐.
 
-## Contributions
+## 📥 Contributions
 
 > [!IMPORTANT]
 >
@@ -39,7 +39,7 @@ If you need assistance with submitting your code contributions, the [Reddit.com 
 is a good place to begin.
 You can also contact the project developers and the community through our [Reddit.com Community][reddit_community]forum.
 
-## General Rules For Contributing
+## 🚩 General Rules For Contributing
 
 - **Collaborate**: Engage with others constructively, and be open to feedback and suggestions.
 
@@ -55,7 +55,7 @@ You can also contact the project developers and the community through our [Reddi
 
 These guidelines help maintain a productive and respectful environment for everyone involved.
 
-## Guidelines for Contribution
+## 📌 Guidelines for Contribution
 
 We welcome contributions from anyone interested in making them. These guidelines outline our policies for accepting
 contributions.
@@ -88,7 +88,7 @@ contributions.
   Feel free to use the code, fork the project, or make any modifications you like, especially if we are unable to
   incorporate your recommendations. However, we kindly ask you to respect our [license][license] agreement.
 
-## Pull Requests
+## 🪝 Pull Requests
 
 > [!IMPORTANT]
 >
@@ -120,7 +120,7 @@ We only accept contributions through Pull Requests on GitHub to the relevant rep
   ours, you agree to license your code to us under the project's license. For more details, please see the
   [Contributor License Agreement][contributor_license_agreement].
 
-## Miscellaneous
+## 📍 Miscellaneous
 
 The terms of this contribution agreement may change at any time and will be published on GitHub for public access.
 Changes take effect immediately for new contributions and will also apply to existing contributions. If you wish to opt
@@ -133,4 +133,4 @@ You can view our list of [Contributors][contributors].
 [license]: /license.md
 [changelog]: /changelog.md
 [contributor_license_agreement]: /contributor_license_agreement.md
-[Contributors]: /../../graphs/contributors
+[contributors]: /../../graphs/contributors
