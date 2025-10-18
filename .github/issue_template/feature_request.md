@@ -6,26 +6,30 @@ labels: "enhancement"
 assignees: ""
 ---
 
-## Is Your Feature Request Related to a Problem? Please Describe.
+## Summary
 
-> [!TIP]
->
-> A clear and concise description of what the problem is. Ex. `I'm always frustrated when ...`
+<!-- Provide a clear and concise description of the feature you’d like to see. -->
 
-## Please Provide a Description of the Solution You Envision.
+## Problem Statement
 
-> [!TIP]
->
-> A clear and concise description of what you want to happen.
+<!-- Explain the problem this feature would solve. Why is it needed? -->
 
-## Describe the Alternative Options You Have Explored.
+## Proposed Solution
 
-> [!TIP]
->
-> A clear and concise description of any alternative solutions or features you've considered.
+<!-- Describe your proposed solution or approach. Include examples if possible. Ex. `I'm always frustrated when ...` -->
+
+## Alternatives Considered
+
+<!-- List any alternative solutions or features you’ve considered. -->
 
 ## Additional Context
 
-> [!TIP]
->
-> Add any other context or screenshots about the feature request here.
+<!-- Add any other context, screenshots, or references about the feature request here. -->
+
+## Acceptance Criteria
+
+<!-- Define what needs to be true for this feature to be considered complete. -->
+
+- [ ] Criteria 1
+- [ ] Criteria 2
+- [ ] Criteria 3
