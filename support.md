@@ -60,10 +60,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][document]
 
-[document]: https://iamprogrammerlk.iamprogrammer.lk/docs
+[document]: https://docs.iamprogrammer.lk
 [community_forum]: https://reddit.com/r/iamprogrammerlk
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
 [support_email]: mailto:iamprogrammerlk@iamprogrammer.lk
 [youtube]: https://youtube.com/iamprogrammerlk
-[api_document]: https://iamprogrammerlk.iamprogrammer.lk/docs/api
+[api_document]: https://docs.iamprogrammer.lk
