@@ -1,4 +1,7 @@
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
 
@@ -6,7 +9,8 @@
     <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
   </a>
 
-<br><br>
+  <br>
+  <br>
 
   <h1>Programming is like sex, I can't make a mistake.</h1>
 
@@ -22,4 +26,7 @@
 
 </div>
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
