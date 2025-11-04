@@ -6,7 +6,7 @@
 <div align="center" style="text-align: center;">
 
   <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+    <img src="resource/cover_3840x2160.png" alt="iamprogrammer.lk" width="100%">
   </a>
 
   <br>
