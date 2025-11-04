@@ -1,19 +1,13 @@
 <br>
 <br>
-<br>
-<br>
 
 <div align="center" style="text-align: center;">
 
   <a href="https://iamprogrammer.lk">
-    <img src="resource/cover_3840x2160.png" alt="iamprogrammer.lk" width="100%">
+    <img src="resource/cover_3840x2160.png" alt="Programming is like sex, I can't make a mistake." width="100%">
   </a>
 
   <br>
-  <br>
-
-  <h1>Programming is like sex, I can't make a mistake.</h1>
-
   <br>
 
   <h2>
@@ -26,7 +20,5 @@
 
 </div>
 
-<br>
-<br>
 <br>
 <br>
